@@ -80,50 +80,35 @@ Stones)的意思。因为上面还写着「日本人的X」、「讨厌亚洲人
 
 最后，感谢此书繁体中文版本的译者和在此过程中提供帮助的人，没有你们没有今天的一切。(Rena,2018-8-5)
 
-## **Contents 目录**
+## Contents 目录
 
-编者前言
-
-1.TAKING MEDICINES 药物
-
-2.HANGING 上吊
-
-自杀地图1 树海
-
-3.LEAPING 跳楼
-
-自杀地图2 高岛平
-
-4.CUTTING THE WRIST AND CAROTID 割腕与刎颈
-
-5.JUMPING 撞车35
-
-自杀地图3 三原山
-
-6.GAS-POISONING 瓦斯中毒
-
-7.ELECTROCUTING 触电
-
-自杀地图4 自杀村-熊取町
-
-8.DROWNING 投水47
-
-9.SELF-BURNING 自焚50
-
-10.FREEZING 冻死52
-
-11.SPECIALCASES 其它自杀手段和自杀统计
-
-编者后记
+- [完全自杀手册](#完全自杀手册)
+  - [前言](#前言)
+    - [Chernobyl](#chernobyl)
+    - [A Long Vacation](#a-long-vacation)
+    - [Another Brick in the Wall](#another-brick-in-the-wall)
+    - [Clockwork Orange](#clockwork-orange)
+    - [Angel Dust](#angel-dust)
+    - [Another Thing](#another-thing)
+  - [Contents 目录](#contents-目录)
+  - [TakingMedicines 药物](#takingmedicines-药物)
+  - [Hanging 上吊](#hanging-上吊)
+  - [Leaping 跳楼](#leaping-跳楼)
+  - [Cutting the Wrist and Carotid 割腕割喉](#cutting-the-wrist-and-carotid-割腕割喉)
+  - [Jumping 撞车](#jumping-撞车)
+  - [Gas-Poisoning瓦斯中毒](#gas-poisoning瓦斯中毒)
+  - [Electrocuting 触电](#electrocuting-触电)
+  - [Drowning 投水](#drowning-投水)
+  - [Self-Burning 自焚](#self-burning-自焚)
+  - [Freezing 雪山冻死](#freezing-雪山冻死)
+  - [Special Cases 其它自杀手段](#special-cases-其它自杀手段)
+  - [后记](#后记)
 
 致死量引用文献引用及参考文献(已丢失)
 
 Illustration: Kazunori Sadahiro
 
 Book Design: Seiichi Suzuki Design Office
-
-**  
-**
 
 ## TakingMedicines 药物
 
@@ -1671,7 +1656,7 @@ href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 **  
 **
 
-**2.Hanging 上吊**
+## Hanging 上吊
 
 痛苦 ▼▽▽▽▽
 
@@ -1918,7 +1903,7 @@ href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 **  
 **
 
-**3. Leaping 跳楼**
+## Leaping 跳楼
 
 痛苦 ▼▽▽▽▽
 
@@ -2103,7 +2088,7 @@ href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 **  
 **
 
-**4. Cutting the Wrist and Carotid 割腕割喉等**
+## Cutting the Wrist and Carotid 割腕割喉
 
 割腕
 
@@ -2189,7 +2174,7 @@ href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 
 **\[经过\]**
 
-1.  **手腕－－让它流掉一公升血**
+**(1) 手腕－－让它流掉一公升血**
 
 「人这个东西，那怕是用足了劲也割不动」，说这话的是用薄小刀在手腕上割了长五公分，深四至五公厘的二十七岁的女子。不错，肉和血管都比想象得难割，手动脉的边上还有腱，更难割。下了决心割开手腕，伤口张开很大看到血管和白肉，紧接着一股热血涌了出来。即使只割开静脉，敷上的毛巾也立即会染成血红的。连动脉一起割开的话，将会以同样粗细静脉六倍的力量喷上两三米高。但是，随着血的流出血压徐徐下降，流血会减少。至于疼痛，只割了静脉的二十二岁的女大学生的话是值得作参考的。她一面用毛巾捂着手一面这样说:「看着流血在想，就这样死掉吗?还是重新生活下去?两者必须选择其一。大概你们不一定相信这是真的，一点都不痛。从前，在中学二年级的时候曾割过手腕，那时也没感到痛，原来这样做是能死去的。」
 
@@ -2284,7 +2269,7 @@ href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 **  
 **
 
-**5. Jumping 撞车**
+## Jumping 撞车
 
 痛苦 ▼▼▼▽▽
 
@@ -2455,7 +2440,7 @@ T于一九五五年二月企图撞车自杀而失败了，当时她是十六岁�
 **  
 **
 
-**6. Gas-Poisoning瓦斯中毒**
+## Gas-Poisoning瓦斯中毒
 
 **(1) 车内瓦斯中毒**
 
@@ -2588,7 +2573,7 @@ Errant[^26]中即有述及该自杀手法，因此自木炭被人类使用以来
 **  
 **
 
-**7. Electrocuting 触电**
+## Electrocuting 触电
 
 痛苦 ▼▼▼▽▽
 
@@ -2683,7 +2668,7 @@ Errant[^26]中即有述及该自杀手法，因此自木炭被人类使用以来
 **  
 **
 
-**8. Drowning 投水**
+## Drowning 投水
 
 痛苦▼▼▼▼▽
 
@@ -2781,7 +2766,7 @@ Errant[^26]中即有述及该自杀手法，因此自木炭被人类使用以来
 **  
 **
 
-**9. Self-Burning 自焚**
+## Self-Burning 自焚
 
 痛苦 ▼▼▼▼▼
 
@@ -2863,7 +2848,7 @@ Errant[^26]中即有述及该自杀手法，因此自木炭被人类使用以来
 
 十二岁的少女自焚自杀，这是令人震惊的例子，但首先应注意的是死的地点。她对叔父的仇恨可能相当大的，所以特意到叔父家后院变成火球，对唤起复仇之念也是非常有效的。十二岁的女孩竟然和祖父、父亲两个亲人发生性关系，更是使人惊讶不已的，太可怕了！她本人大概已感觉到为发泄恐怖、怨恨、绝望的压抑而自杀，如采用跳楼、撞车这些方法也太不显眼了。这种情况还是自焚最合适。不过，她在暑假前两个月就缺课了，就是说只有四月和五月的两个月里去上学的，那么在这期间转了两次学又是怎么回事呢?从资料上还弄不清楚，莫非是还有更复杂的隐情!?
 
-**10. Freezing 雪山冻死**
+## Freezing 雪山冻死
 
 痛苦 ▼▼▽▽▽
 
@@ -2950,7 +2935,7 @@ Errant[^26]中即有述及该自杀手法，因此自木炭被人类使用以来
 **  
 **
 
-**11. Special Cases 其它自杀手段**
+## Special Cases 其它自杀手段
 
 自杀的方法，除以上介绍之外，还有很多。例如，反正不易弄到手就没介绍的枪支自杀。
 
@@ -3286,7 +3271,7 @@ Errant[^26]中即有述及该自杀手法，因此自木炭被人类使用以来
 **  
 **
 
-**后记**
+## 后记
 
 在前言中，写了近似「关于现代社会与自杀」这样夸张的开场白，不过事实上的确是有点言过其实。
 
