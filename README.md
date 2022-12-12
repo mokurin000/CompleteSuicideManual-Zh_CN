@@ -1,5 +1,29 @@
 # 完全自杀手册
 
+## Contents 目录
+
+- [完全自杀手册](#完全自杀手册)
+  - [Contents 目录](#contents-目录)
+  - [前言](#前言)
+    - [Chernobyl](#chernobyl)
+    - [A Long Vacation](#a-long-vacation)
+    - [Another Brick in the Wall](#another-brick-in-the-wall)
+    - [Clockwork Orange](#clockwork-orange)
+    - [Angel Dust](#angel-dust)
+    - [Another Thing](#another-thing)
+  - [TakingMedicines 药物](#takingmedicines-药物)
+  - [Hanging 上吊](#hanging-上吊)
+  - [Leaping 跳楼](#leaping-跳楼)
+  - [Cutting the Wrist and Carotid 割腕割喉](#cutting-the-wrist-and-carotid-割腕割喉)
+  - [Jumping 撞车](#jumping-撞车)
+  - [Gas-Poisoning 瓦斯中毒](#gas-poisoning-瓦斯中毒)
+  - [Electrocuting 触电](#electrocuting-触电)
+  - [Drowning 投水](#drowning-投水)
+  - [Self-Burning 自焚](#self-burning-自焚)
+  - [Freezing 雪山冻死](#freezing-雪山冻死)
+  - [Special Cases 其它自杀手段](#special-cases-其它自杀手段)
+  - [后记](#后记)
+
 ## 前言
 
 这本书，详详细细写尽自杀的方法。
@@ -79,36 +103,6 @@ Stones)的意思。因为上面还写着「日本人的X」、「讨厌亚洲人
 因为贫瘠的医学和药学知识和编校时人已处于混乱和崩溃边缘，书中内容难免有谬误和不完善之处，望见谅。
 
 最后，感谢此书繁体中文版本的译者和在此过程中提供帮助的人，没有你们没有今天的一切。(Rena,2018-8-5)
-
-## Contents 目录
-
-- [完全自杀手册](#完全自杀手册)
-  - [前言](#前言)
-    - [Chernobyl](#chernobyl)
-    - [A Long Vacation](#a-long-vacation)
-    - [Another Brick in the Wall](#another-brick-in-the-wall)
-    - [Clockwork Orange](#clockwork-orange)
-    - [Angel Dust](#angel-dust)
-    - [Another Thing](#another-thing)
-  - [Contents 目录](#contents-目录)
-  - [TakingMedicines 药物](#takingmedicines-药物)
-  - [Hanging 上吊](#hanging-上吊)
-  - [Leaping 跳楼](#leaping-跳楼)
-  - [Cutting the Wrist and Carotid 割腕割喉](#cutting-the-wrist-and-carotid-割腕割喉)
-  - [Jumping 撞车](#jumping-撞车)
-  - [Gas-Poisoning瓦斯中毒](#gas-poisoning瓦斯中毒)
-  - [Electrocuting 触电](#electrocuting-触电)
-  - [Drowning 投水](#drowning-投水)
-  - [Self-Burning 自焚](#self-burning-自焚)
-  - [Freezing 雪山冻死](#freezing-雪山冻死)
-  - [Special Cases 其它自杀手段](#special-cases-其它自杀手段)
-  - [后记](#后记)
-
-致死量引用文献引用及参考文献(已丢失)
-
-Illustration: Kazunori Sadahiro
-
-Book Design: Seiichi Suzuki Design Office
 
 ## TakingMedicines 药物
 
@@ -2440,7 +2434,7 @@ T于一九五五年二月企图撞车自杀而失败了，当时她是十六岁�
 **  
 **
 
-## Gas-Poisoning瓦斯中毒
+## Gas-Poisoning 瓦斯中毒
 
 **(1) 车内瓦斯中毒**
 
